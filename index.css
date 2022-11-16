@@ -12,21 +12,10 @@
 }
 
 
-.card-item {             /* dmb don't work!!!! */
+.card-item {             
   width: 100%;
 }
-/* *{
-}
-html,
-body {
-  height: 100%;
-} */
 
-
-/* .card {
-  display:table-row;
-  height: 100%;
-} */
 
 
 .img-size {   
